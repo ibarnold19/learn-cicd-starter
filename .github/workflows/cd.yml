@@ -6,8 +6,8 @@ on:
 
 jobs:
 
-  style:
-    name: Style
+  deploy:
+    name: Deploy
     runs-on: ubuntu-latest
 
     steps:
